@@ -1,2 +1,2 @@
-# StudentRecordManagement
-✔ Variables and Structures ✔ Loops and Conditional Statements ✔ Functions and Modular Programming ✔ User Input and Output ✔ Basic File Handling (can be added for extra features)
+The Student Record Management System is a basic C program designed to store, retrieve, and manage student records. It allows users to perform operations such as adding a new student, displaying all records, searching for a student by roll number, and deleting student data. The program uses structures to organize student data and implements various functions to perform these operations efficiently.
+
